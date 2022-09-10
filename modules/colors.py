@@ -31,5 +31,3 @@ darkSquare = (30, 30, 45)
 node = (80, 80, 80)
 gray = (160, 160, 160) # Buttons border
 darkGray = (10, 10, 20) # Settings box
-
-
